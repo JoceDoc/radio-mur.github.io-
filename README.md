@@ -1,0 +1,1 @@
+Ce projet vise à créer une webradio interne au lycée, diffusée en ligne, accessible à tous les élèves et personnels. L’objectif est de favoriser la communication, de valoriser les initiatives lycéennes, de développer les compétences orales et techniques, et de créer un média collaboratif géré par les élèves.
