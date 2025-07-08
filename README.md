@@ -1,1 +1,6 @@
-Site de la Webradio du lycée ND-du-MUR, diffusée en ligne, accessible à tous les élèves et personnels. L’objectif est de favoriser la communication, de valoriser les initiatives lycéennes, de développer les compétences orales et techniques, et de créer un média collaboratif géré par les élèves.
+Site de la Webradio du lycée ND-du-MUR, diffusée en ligne, accessible à tous les élèves et personnels. Les objectifs sont multiples :
+
+- favoriser la communication
+- valoriser les initiatives lycéennes
+- développer les compétences orales et techniques
+- créer un média collaboratif géré par les élèves.
